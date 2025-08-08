@@ -1,0 +1,18 @@
+# Unity .gitignore (minimal)
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Visual Studio / Rider
+.vscode/
+*.csproj
+*.sln
+*.user
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
